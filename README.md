@@ -116,7 +116,7 @@ Recommandation : examiner les ventes fortement remisées, identifier les catégo
 
 ##### Analyse 3 – Produits rentables
 
-La sous-catégorie **Copiers** génère environ 55 .62K de bénéfice cumulé, ce qui en fait un contributeur important à la rentabilité globale.
+La sous-catégorie **Copiers** génère environ 55.62K de bénéfice cumulé, ce qui en fait un contributeur important à la rentabilité globale.
 
 Recommandation : identifier les références et segments clients responsables de cette performance afin d’évaluer les opportunités commerciales.
 
